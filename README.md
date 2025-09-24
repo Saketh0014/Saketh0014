@@ -18,7 +18,7 @@
 
 📫 **How to reach me:**  
 - ✉️ srisaketh111@gmail.com  
-- 🌐 [Portfolio](https://srisaketh-portfolio.netlify.app)  
+- 🌐 [Portfolio](https://sri-saketh.netlify.app/)  
 - 💼 [LinkedIn](https://linkedin.com/in/sri-saketh-35767224a)  
 - 💻 [GitHub](https://github.com/Saketh0014)  
 
