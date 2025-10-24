@@ -8,7 +8,7 @@
 ---
 
 🔍 **About Me**  
-- 🎓 2024 graduate in **Computer Science and Engineering**  
+- 🎓 Graduate in **Computer Science and Engineering**  
 - 🤖 Passionate about **Machine Learning**, **Web Development**, and **Automation**  
 - 💡 Built ML projects like **ASL Recognition** and **Kidney Disease Detection**  
 - 🚀 Love turning ideas into real-world apps using **Flask**, **Django**, **React**, **SQL**, and **Python**  
