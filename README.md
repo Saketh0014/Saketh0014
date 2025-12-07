@@ -11,7 +11,7 @@
 - 🎓 B.Tech in **Computer Science and Engineering**  
 - 💻 Backend Developer Intern at **WhatBytes**, working on full-stack, real-time, and AI-powered platforms  
 - 🧠 Built **50+ REST APIs**, real-time systems using **WebSockets/WebRTC**, and AI modules using **GPT-4/GPT-5, Gemini, LangChain, Pinecone**  
-- ⚙️ Implemented production systems involving **Celery, Redis, AWS, Docker, Supabase, Stripe, Razorpay**, and more  
+-⚙️ Implemented production systems involving **Celery, Redis, AWS, Docker, Supabase, Stripe, Razorpay**, and more  
 - 📱 Worked on platforms across **e-commerce, telemedicine, construction analytics, fintech, and wellness automation**  
 - 🚀 Exploring **Agentic AI, LLM Integrations, Distributed Systems, and Cloud Architecture**
 
@@ -28,37 +28,45 @@
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 What I Work On  
-- 🔧 **Backend Development:** Django, DRF, FastAPI, Flask  
-- ⚡ **Real-Time Systems:** WebSockets, WebRTC  
-- 🤖 **AI & LLMs:** GPT-4, GPT-5, Gemini, LangChain, Pinecone  
-- 🗄️ **Databases:** PostgreSQL, MariaDB, MongoDB, Supabase  
-- 🔐 **Auth Systems:** JWT, OTP, Google OAuth  
-- ⚙️ **Background Processing:** Celery + Redis  
-- ☁️ **Cloud & Deployments:** AWS EC2/ECS, GCP, Railway, Docker  
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saketh0014&theme=github_dark" width="80%" />
+
+  <!-- Repo Stats -->
+</div>
 
 ---
 
